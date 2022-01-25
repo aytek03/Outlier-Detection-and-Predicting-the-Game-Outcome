@@ -7,3 +7,6 @@ MATLAB Code => PREDICTING_THE_OUTCOME
 
 
 Python Code => OUTLIER_DETECTION
+
+
+We use databasebasketball2.0.zip
